@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eea90b7b-b6a9-42e9-9542-a5a55628ed1d": {
+      "ProjectGuid": "eea90b7b-b6a9-42e9-9542-a5a55628ed1d",
+      "DisplayName": "Tesseract-OCR",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
